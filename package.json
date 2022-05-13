@@ -1,0 +1,21 @@
+{
+  "name": "实时保存的编辑表格",
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/pro-table": "2.74.3",
+    "antd": "4.20.2",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
